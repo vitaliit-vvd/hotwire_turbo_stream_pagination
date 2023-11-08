@@ -1,0 +1,24 @@
+AllCops:
+  TargetRubyVersion: 3.2.2
+  NewCops: enable
+  SuggestExtensions: false
+  Exclude:
+    - 'bin/**/*'
+    - 'db/**/*'
+    - 'lib/**/*'
+    - 'config/**/*'
+    - 'app/helpers/**/*'
+Layout/LineLength:
+  Max: 165
+Style/Documentation:
+  Enabled: false
+Metrics/AbcSize:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false
+Metrics/MethodLength:
+  Enabled: false
+Metrics/ClassLength:
+  Enabled: false
+Lint/NoReturnInBeginEndBlocks:
+  Enabled: false
