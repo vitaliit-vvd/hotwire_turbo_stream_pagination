@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Infinite Scroll Pagination](https://www.youtube.com/watch?v=ScxUqW29F7E&list=PLdTytUiloS16epXsqHswpCUMND_rksjr4&index=7)
 
-Things you may want to cover:
+[Infinite Scroll Pagination](https://www.youtube.com/watch?v=OEuNR3XGvPk&list=PLdTytUiloS16epXsqHswpCUMND_rksjr4&index=8)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Frames + Streams: Infinite Scroll Pagination (Best approach)](https://www.youtube.com/watch?v=sQBRkduaezo&list=PLdTytUiloS16epXsqHswpCUMND_rksjr4&index=9)
